@@ -1,4 +1,6 @@
+![giphy](https://github.com/user-attachments/assets/4e8e9fe9-d446-4069-bb5d-c340460dd421)
 # 💫 About Me:
+
 🔭 I’m currently Studying..<br><br><br>🌱 I’m currently learning Javascript<br>
 
 
